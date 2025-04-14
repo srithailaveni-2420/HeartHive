@@ -1,1 +1,10 @@
 streamlit>=1.26.0
+numpy
+pandas
+scikit-learn
+torch
+optuna
+shap
+matplotlib
+seaborn
+deepseek  # If available, or comment out if using mock API
